@@ -64,6 +64,8 @@ artifacts/
 *.log
 *.vspscc
 *.vssscc
+*.vcxproj
+*.filters
 .builds
 *.pidb
 *.svclog
